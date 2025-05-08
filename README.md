@@ -1,4 +1,4 @@
-# NL2SQL Streamlit App
+# NL2SQL CHATBOT
 
 This app allows users to upload CSV/Excel files and write natural language queries that get converted into executable SQL.
 
